@@ -8,7 +8,7 @@ Tyvm [hebelsan](https://github.com/hebelsan) for making an effort creating this 
 - Windows 7 x64 (duh)
 
 ### Laptop
-
+| category               | item               |
 |-----------------------:| -------------------|
 |    System Manufacturer | Acer               |
 |           System Model | Aspire 5750G       |
@@ -18,6 +18,7 @@ Tyvm [hebelsan](https://github.com/hebelsan) for making an effort creating this 
 
 
 ### Video Card
+| category          | item                        |
 |------------------:|-----------------------------|
 |         Card name | Intel(R) HD Graphics Family |
 |               and | NVIDIA GeForce GT 540M      |
@@ -30,7 +31,7 @@ Tyvm [hebelsan](https://github.com/hebelsan) for making an effort creating this 
 |   DirectX Version | DirectX 11                  |
 
 
-## Steps to set up until runnable
+## Steps until runnable
 - install Eclipse and mingw64
 - set environment variables PATH and MINGW_HOME to respective folders in mingw64
 - download the development libraries for MinGW 32/64-bit [SDL2](https://www.libsdl.org/download-2.0.php), [SDL2\_mixer](https://www.libsdl.org/projects/SDL_mixer/), [SDL2\_image](https://www.libsdl.org/projects/SDL_image/), [SDL2\_ttf](https://www.libsdl.org/projects/SDL_ttf/)
