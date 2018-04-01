@@ -7,24 +7,27 @@ Tyvm [hebelsan](https://github.com/hebelsan) for making an effort creating this 
 - git GUI
 - Windows 7 x64 (duh)
 
-###Laptop
-    System Manufacturer: Acer
-           System Model: Aspire 5750G
-                   BIOS: InsydeH2O Version V1.12
-              Processor: Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz (4 CPUs), ~2.4GHz
-                 Memory: 8192MB RAM
+### Laptop
+
+|-----------------------:| -------------------|
+|    System Manufacturer | Acer               |
+|           System Model | Aspire 5750G       |
+|                   BIOS | InsydeH2O Version V1.12 |
+|              Processor | Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz (4 CPUs), ~2.4GHz |
+|                 Memory | 8192MB RAM         |
 
 
-###Video Card
-          Card name: Intel(R) HD Graphics Family
-                and: NVIDIA GeForce GT 540M
-     Display Memory: 1760 MB
-       D3D9 Overlay: Supported
-            DXVA-HD: Supported
-       DDraw Status: Enabled
-         D3D Status: Enabled
-         AGP Status: Enabled
-    DirectX Version: DirectX 11
+### Video Card
+|------------------:|-----------------------------|
+|         Card name | Intel(R) HD Graphics Family |
+|               and | NVIDIA GeForce GT 540M      |
+|    Display Memory | 1760 MB                     |
+|      D3D9 Overlay | Supported                   |
+|           DXVA-HD | Supported                   |
+|      DDraw Status | Enabled                     |
+|        D3D Status | Enabled                     |
+|        AGP Status | Enabled                     |
+|   DirectX Version | DirectX 11                  |
 
 
 ## Steps to set up until runnable
